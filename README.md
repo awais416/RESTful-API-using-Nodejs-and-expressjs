@@ -1,6 +1,6 @@
 ## Summary
 This is a complete RESTFUL api using nodejs and expressjs which uses all http verbs(GET, POST, PUT, DELETE, PATCH). I implemented this 
-backend functionality to my app that i am making using MEANSTACK.
+backend functionality to integrate it with my app using MEANSTACK.
 
 **bookRoute.js**
 This is the main file in Routes directory which contains the functionality of http verbs
